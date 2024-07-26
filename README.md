@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm ren1kron</h1>
-<h3 align="center">A passionate Java developer from Russia</h3>
+# Hi 👋, I'm ren1kron
+### A passionate Java developer from Russia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
