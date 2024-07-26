@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, I'm ren1kron
+# Привет 👋, меня зовут Алексей
+ %% - 🧑‍🎓 I’m currently learning in **ITMO University** %%
+ - 
 ### A passionate Java developer from Russia
 
 <h3 align="left">Connect with me:</h3>
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
   
-  - 🧑‍🎓 I’m currently learning in **ITMO University**
+ 
 
 
 
