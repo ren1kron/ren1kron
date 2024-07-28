@@ -5,5 +5,5 @@
 [![My Skills](https://skillicons.dev/icons?i=java,postgres)](https://skillicons.dev)
 
 ## Connect with me:
-[![Telegram](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png =98x98)](https://t.me/ren1kron)
+[![Telegram](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png=98x98)](https://t.me/ren1kron)
 
