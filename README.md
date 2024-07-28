@@ -1,6 +1,10 @@
 # Hi👋, I'm ren1kron
 ### A programmer student from Russia, Saint-Petersburg
 
+- 🎓 I'm currently studying in **ITMO University**
+- 🍀 Learning Java and Spring...
+- 🧑🏼‍💻 Trying my best to make the world a better place
+- 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,postgres)](https://skillicons.dev)
 
